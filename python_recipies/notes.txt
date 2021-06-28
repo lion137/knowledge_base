@@ -1,0 +1,2 @@
+nonlocal keyword - allows to flag local variable as free even when we start from making assignment on it, fluent page 195
+@contectmanager decorator Fluent, page 457; basically: implement a generator with single yield which returns whatever __enter__ to  return
